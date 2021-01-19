@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472031878051",
+    "firebase_url": "https://vehicletracking-c5149.firebaseio.com",
+    "project_id": "vehicletracking-c5149",
+    "storage_bucket": "vehicletracking-c5149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472031878051:android:cdc47ebda7e230f663d816",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472031878051-vr0ggrmqbat904bopkn7se7brs8q6ja8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "2c1f2fe8674b52284e79cf1fcad016c1eb4b8406"
+          }
+        },
+        {
+          "client_id": "472031878051-c1n3s9l1lhmohjmghnseqk347v4q8039.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXnasouddo11D1P4rHW2HWWOD1a82IgiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472031878051-c1n3s9l1lhmohjmghnseqk347v4q8039.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
